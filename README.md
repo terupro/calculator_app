@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## 画像
 
-<img src="images.githubusercontent.com/92189386/157149428-a6cca5e7-4883-46f8-999a-cfe5be91a112.png" width="300">
+<img src="https://user-images.githubusercontent.com/92189386/157149428-a6cca5e7-4883-46f8-999a-cfe5be91a112.png" width="300">
 
 ## Getting Started
 
